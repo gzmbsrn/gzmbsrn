@@ -9,8 +9,8 @@ Senior Software Engineering Student
 * 🚀  I'm currently working on [REPKON](https://www.repkon.com.tr/tr)
 * 🧠  I'm learning Data Minig, Web Projects, Advance Technology Systems and about the tools they currently use.
 
-### Linkedin
-This is my [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gizem-b-900506171/) profile 
+### [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gizem-b-900506171/)
+This is my [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gizem-b-900506171/) profile.
 
 
 <!--
