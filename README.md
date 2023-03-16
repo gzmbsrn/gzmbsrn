@@ -5,7 +5,7 @@ Senior Software Engineering Student
 ------------------------------------
 
 * 🌍  I'm based in Istanbul
-* ✉️  You can contact me at [gizembsrn1907@gmail.com](mailto:mertcobanov@gmail.com)
+* ✉️  You can contact me at [gizembsrn1907@gmail.com]
 * 🚀  I'm currently working on [REPKON](https://www.repkon.com.tr/tr)
 * 🧠  I'm learning Data Minig, Web Projects, Advance Technology Systems and about the tools they currently use.
 
