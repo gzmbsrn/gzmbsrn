@@ -1,5 +1,5 @@
-Hi 👋 My name is Gizem Basaran
-=============================
+Hi 👋 My name is Gizem Basaran [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gizem-b-900506171/)
+=============================================
 
 Senior Software Engineering Student
 ------------------------------------
@@ -9,7 +9,6 @@ Senior Software Engineering Student
 * 🚀  I'm currently working on [REPKON](https://www.repkon.com.tr/tr)
 * 🧠  I'm learning Data Minig, Web Projects, Advance Technology Systems and about the tools they currently use.
 
-### [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gizem-b-900506171/)
 This is my [Linkedin](https://www.linkedin.com/in/gizem-b-900506171/) profile.
 
 
